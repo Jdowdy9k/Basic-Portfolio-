@@ -1,0 +1,15 @@
+.container {
+    height: 500px;
+    width: 960px;
+    padding: 20px;
+    margin: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 18px;
+    line-height: 150%;
+    align-self: center;
+    background-color: lightgray;
+    text-align: left;
+}
+  
+  
+ 
